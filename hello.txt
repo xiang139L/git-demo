@@ -12,6 +12,6 @@ hello word
 hello word
 hello word
 hello word
-hello word666
-hello git 我是master
-hot fix test1
+hello word
+hello git
+hot fix test 我是分支修改的
